@@ -34,4 +34,4 @@ plt.tight_layout()
 # [Volatge Sag in Power Quality](vsag.html) 
 # [sine](sine.tex) 
 
-## Power quality management 
+#Power quality management 
