@@ -32,4 +32,4 @@ plt.ylabel('function f(x)')
 plt.tight_layout()
 ```
 # [Volatge Sag in Power Quality](vsag.html) 
-# [sine](sin.tex) 
+# [sine](sine.tex) 
