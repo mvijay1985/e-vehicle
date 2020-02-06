@@ -31,7 +31,7 @@ plt.xlabel('X-Variable')
 plt.ylabel('function f(x)')
 plt.tight_layout()
 ```
-# [Volatge Sag in Power Quality](vsag.html) 
+# [Volatge Sag in Power Quality](e-vehicle/vsag.html) 
 # [sine](sine.tex) 
 
 #Power quality management 
